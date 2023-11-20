@@ -7,7 +7,7 @@ The objective of this project is to provide the user to find nearest BiciMAD or 
 ## 🚲**Author**
 
 - Alana Castillo Trujillo
-- https://github.com/AlanaCastillo/project_m1
+- :octocat: https://github.com/AlanaCastillo/project_m1
 
 
 
