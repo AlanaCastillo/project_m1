@@ -11,7 +11,7 @@ The objective of this project is to provide the user to find nearest BiciMAD or 
 
 
 
- ## 🚲**Data
+ ## 🚲**Data**
 
 [](https://linktodocumentation)
 
