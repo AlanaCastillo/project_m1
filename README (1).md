@@ -1,5 +1,5 @@
 
-# BiciMAD/BiciPARK - TEMPLOS CATOLICOS
+# BICIMAD/BICIPARK - TEMPLOS CATOLICOS
 
 **The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid.**
 
@@ -10,6 +10,16 @@
 
 - Provide the user list of nearest station 
 
+## 🚲**Deployment**
+
+To deploy this project run
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />Visual Studio Code
+
+
+
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />Python
+
  ## 🚲**Tecnologies**
 
 Install my-project with npm
@@ -18,11 +28,6 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-
-- Alana Castillo Trujillo
-- :octocat: https://github.com/AlanaCastillo/project_m1
-
-
 
  ## 🚲**Data**
 
@@ -37,15 +42,7 @@ Install my-project with npm
 - Cross platform
 
 
-## 🚲**Deployment**
 
-To deploy this project run
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />Visual Studio Code
-
-
-
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />Python
 
 ```bash
   npm run deploy
