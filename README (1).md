@@ -4,7 +4,7 @@
 The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid.
 
 
-## 🚲**Author**##
+## 🚲****Author**
 
 - Alana Castillo Trujillo
 - https://github.com/AlanaCastillo/project_m1
