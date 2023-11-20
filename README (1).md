@@ -15,7 +15,7 @@ The objective of this project is to provide the user to find nearest BiciMAD or 
 
 [](https://linktodocumentation)
 
-**CSV Files.** The datasets contains information from the BiciMAD stations including their location. You may find the `.csv` files in the __data__ folder
+**CSV Files.**:open_file_folder: The datasets contains information from the BiciMAD stations including their location. You may find the `.csv` files in the __data__ folder
 ## Features
 
 - Light/dark mode toggle
