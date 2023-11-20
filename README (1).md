@@ -1,8 +1,9 @@
 
-# BiciMAD/BiciPARK - TEMPLOS ![Almudena-Cathedral-Madrid-Spain-sunny](https://github.com/AlanaCastillo/project_m1/assets/141866356/d21183dc-8024-4d49-b00e-d519a44d6e31)
-CATOLICOS
+# BiciMAD/BiciPARK - TEMPLOS CATOLICOS
 
-The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid.
+     The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid.
+
+![C73DCFD2-F4D7-4FDB-9E91-74457A5B1AC9](https://github.com/AlanaCastillo/project_m1/assets/141866356/16c5fe23-3e96-4688-a5d6-cb35d922f27a)
 
 
 ## 🚲**Features**
