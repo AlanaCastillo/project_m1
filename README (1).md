@@ -41,7 +41,16 @@ Install my-project with npm
 - Fullscreen mode
 - Cross platform
 
+- 
 
+ Output ➡️ Directions Map
+    - Filename: map
+    - Format: .html
+    - Location: Opens in browser and saves in the "project" folder 
+- Output ➡️ Table
+    - Filename: one_nearest_station
+    - Format: .csv
+    - Location: Folder "outputs"
 
 
 ```bash
