@@ -41,16 +41,16 @@ Install my-project with npm
 - Fullscreen mode
 - Cross platform
 
-- 
+ ## 🚲**Output**
 
- Output ➡️ Directions Map
-    - Filename: map
-    - Format: .html
-    - Location: Opens in browser and saves in the "project" folder 
 - Output ➡️ Table
-    - Filename: one_nearest_station
+    - Filename: all_nearest_station
     - Format: .csv
     - Location: Folder "outputs"
+
+Templo | Teplo adress | BiciMAD station | BiciMAD adress | Distance | 
+--- | --- | --- | --- |--- |---
+Basílica Jesús de Medinaceli| PLAZA JESUS 2  | 27 - Huertas | Calle Jesús nº 1	 | 82.890241 | 
 
 
 ```bash
