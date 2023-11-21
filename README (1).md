@@ -43,15 +43,9 @@ Install my-project with npm
 
  ## 🚲**Output**
 
-- Output ➡️ Table
-    - Filename: all_nearest_station
-    - Format: .csv
-    - Location: Folder "outputs"
-
-Templo | Teplo adress | BiciMAD station | BiciMAD adress | Distance | 
---- | --- | --- | --- |--- |---
-Basílica Jesús de Medinaceli| PLAZA JESUS 2  | 27 - Huertas | Calle Jesús nº 1	 | 82.890241 | 
-
+| Place of interest | Type of place (*) | Place address | BiciMAD station | Station location |
+|---------|----------|-------|------------|----------|
+| Basílica Jesús de Medinaceli   | Templos Catolicos | PLAZA JESUS 2  | 27 - Huertas | Calle Jesús nº 1
 
 ```bash
   npm run deploy
