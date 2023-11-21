@@ -1,9 +1,11 @@
 
-# BICIMAD/BICIPARK STATIONS
+## BICIMAD/BICIPARK STATIONS
 
-**The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid.**
 
 ![C73DCFD2-F4D7-4FDB-9E91-74457A5B1AC9](https://github.com/AlanaCastillo/project_m1/assets/141866356/16c5fe23-3e96-4688-a5d6-cb35d922f27a)
+
+## 🚲**Description**
+The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid
 
 
 ## 🚲**Features**
