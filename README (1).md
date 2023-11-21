@@ -1,5 +1,5 @@
 
-# BICIMAD/BICIPARK - TEMPLOS CATOLICOS
+# BICIMAD/BICIPARK STATIONS
 
 **The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid.**
 
