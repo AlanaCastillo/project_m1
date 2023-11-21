@@ -1,7 +1,6 @@
-<p align="center">
-##**BICIMAD/BICIPARK STATIONS**
-</p>
+<<div align="center">
 
+# ******BICIMAD- BICIPARK STATIONS****** </div>
 ![C73DCFD2-F4D7-4FDB-9E91-74457A5B1AC9](https://github.com/AlanaCastillo/project_m1/assets/141866356/16c5fe23-3e96-4688-a5d6-cb35d922f27a)
 
 ## 🚲**Description**
