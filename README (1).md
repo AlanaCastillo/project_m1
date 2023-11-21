@@ -6,7 +6,7 @@ BICIMAD/BICIPARK STATIONS
 
 ## 🚲**Description**
 The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid
-
+Provides users with a list of the nearest BiciMAD stations to a set of multiple places of interest.
 
 ## 🚲**Features**
 
