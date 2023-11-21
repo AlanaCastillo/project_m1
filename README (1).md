@@ -8,11 +8,13 @@ BICIMAD/BICIPARK STATIONS
 The objective of this project is to provide the user to find nearest BiciMAD or Bicipark station of different Catholic churches in Madrid
 Provides users with a list of the nearest BiciMAD stations to a set of multiple places of interest.
 
-## 🚲**Features**
+This app is the perfect tool to find the nearest BiciMAD station to a place of interest, providing the following options:
 
-- Provide the user list of nearest station 
+- 🔎 **Explore Mode** - Provides users with a list of the nearest BiciMAD stations to a set of multiple places of interest.
+- 🗺️ **Navigate Mode** - Guides users to the nearest BiciMAD station from a specific place of interest and provides a walking route to get there.
 
-## 🚲**Deployment**
+
+## 🚲**Tecnologies**
 
 To deploy this project run
 
@@ -22,14 +24,8 @@ To deploy this project run
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />Python
 
- ## 🚲**Tecnologies**
+ 
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
 
  ## 🚲**Data**
 
@@ -45,6 +41,8 @@ Install my-project with npm
 
  ## 🚲**Output**
 
+ AQUI ME FALTA PONER ALGO
+
 | Place of interest | Type of place (*) | Place address | BiciMAD station | Station location |
 |---------|----------|-------|------------|----------|
 | Basílica Jesús de Medinaceli   | Templos Catolicos | PLAZA JESUS 2  | 27 - Huertas | Calle Jesús nº 1
@@ -52,18 +50,6 @@ Install my-project with npm
 ```bash
   npm run deploy
 ```
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-
 
 ## Acknowledgements
 
