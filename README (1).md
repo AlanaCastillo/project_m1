@@ -25,7 +25,7 @@ To deploy this project run
  Import all required libraries
 
 
- ## Environment Variables
+ ## 🚲**Environment Variables
 
 Import all required libraries
 
@@ -39,7 +39,6 @@ Import all required libraries
 [](https://linktodocumentation)
 
 **CSV Files.**:open_file_folder: The datasets contains information from the BiciMAD stations including their location. You may find the `.csv` files in the __data__ folder
-## 🚲**Features**
 
 
  ## 🚲**Output**
@@ -49,7 +48,6 @@ Import all required libraries
 | Place of interest | Type of place (*) | Place address | BiciMAD station | Station location |
 |---------|----------|-------|------------|----------|
 | Basílica Jesús de Medinaceli   | Templos Catolicos | PLAZA JESUS 2  | 27 - Huertas | Calle Jesús nº 1
-
 
 
 ## 🚲**Author**
