@@ -4,7 +4,7 @@
 ![5795B78E-0A0E-4C17-8770-5671B6D36A87](https://github.com/AlanaCastillo/project_m1/assets/141866356/a6ba1274-8e55-4c54-9e50-17769b4a5bd9)
 
 ## 🚲**Description**
-Project Module 1 for the Ironhack Data Analytics Bootcamp. The aim of this project is to provide users with a list of the nearest BiciMAD or Bicipark stations of different Catholic churches in Madrid.
+Ironhack Madrid - Data Analytics Part Time - Sep 2023 - Project Module 1. The aim of this project is to provide users with a list of the nearest BiciMAD or BiciPARK stations of different Catholic churches in Madrid.
 
 
 ## 🚲**Tecnologies**
