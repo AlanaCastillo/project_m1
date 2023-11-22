@@ -6,11 +6,6 @@
 ## 🚲**Description**
 Project Module 1 for the Ironhack Data Analytics Bootcamp. The aim of this project is to provide users with a list of the nearest BiciMAD or Bicipark stations of different Catholic churches in Madrid.
 
-This app is the perfect tool to find the nearest BiciMAD station to a place of interest, providing the following options:
-
-- 🔎 **Explore Mode** - Provides users with a list of the nearest BiciMAD stations to a set of multiple places of interest.
-- 🗺️ **Navigate Mode** - Guides users to the nearest BiciMAD station from a specific place of interest and provides a walking route to get there.
-
 
 ## 🚲**Tecnologies**
 
@@ -22,17 +17,15 @@ To deploy this project run
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />Python
 
- Import all required libraries
+ 
+ ## 🚲**Required libraries**
+The user needs to install next  libraries 
 
+`pandas :  conda install -c anaconda pandas`
 
- ## 🚲**Environment Variables
+`arparse :  conda install -c conda-forge argparse`
 
-Import all required libraries
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
+`fuzzy wuzzy : conda install -c conda-forge fuzzywuzzy`
 
  ## 🚲**Data**
 
